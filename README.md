@@ -42,11 +42,11 @@ NOTE: Remember the requirements for a header and a pause at the end of the progr
 
 Submission: Submit a single zipped folder containing all of the specified screenshots AND the root folder for the project.
 
-![1](https://github.com/bell-kevin/mod2compMovieConcessionStand/blob/main/mod2compMovieConcessionStand/mod2.1.PNG)
+![1](https://github.com/bell-kevin/mod2compMovieConcessionStand/blob/main/mod2.1.PNG)
 
-![2](https://github.com/bell-kevin/mod2compMovieConcessionStand/blob/main/mod2compMovieConcessionStand/mod2.2.PNG)
+![2](https://github.com/bell-kevin/mod2compMovieConcessionStand/blob/main/mod2.2.PNG)
 
-![3](https://github.com/bell-kevin/mod2compMovieConcessionStand/blob/main/mod2compMovieConcessionStand/mod2.3.PNG)
+![3](https://github.com/bell-kevin/mod2compMovieConcessionStand/blob/main/mod2.3.PNG)
 
 == We're Using GitHub Under Protest ==
 
